@@ -1,0 +1,23 @@
+{
+  "name": "ci-skipper",
+  "version": "0.0.1",
+  "description": "skip the ci for the commits that clearly does not break anything",
+  "repository": "suhaibtamimi/ci-skipper",
+  "main": "lib",
+  "bin": "bin/ci-skipper",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "author": "Suhaib Mujahid",
+  "license": "MIT",
+  "dependencies": {
+  },
+  "files": [
+    "bin",
+    "lib"
+  ]
+}
