@@ -4,7 +4,16 @@
 ## Install
 
 ```
-$ npm install --g ci-skipper
+$ npm install -g ci-skipper
+```
+
+## Usage
+
+```
+ci-skipper --help
+
+  ci-skipper on     setup the ci skipper for this git repository.
+  ci-skipper off    remove the ci skipper from this git repository.
 ```
 
 
