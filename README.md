@@ -12,8 +12,8 @@ $ npm install -g ci-skipper
 ```
 ci-skipper --help
 
-  ci-skipper on     setup the ci skipper for this git repository.
-  ci-skipper off    remove the ci skipper from this git repository.
+  ci-skipper on     enable CI Skipper for this git repository.
+  ci-skipper off    disable CI Skipper from this git repository.
 ```
 
 

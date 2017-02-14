@@ -1,7 +1,7 @@
 {
   "name": "ci-skipper",
   "version": "0.0.1",
-  "description": "skip the ci for the commits that clearly does not break anything",
+  "description": "Automatically CI skip commits that do not modify source code, i.e., comments, formatting, etc.",
   "repository": "suhaibtamimi/ci-skipper",
   "main": "lib",
   "bin": "bin/ci-skipper",
