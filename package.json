@@ -1,9 +1,9 @@
 {
   "name": "ci-skipper",
-  "version": "0.0.1",
+  "version": "0.0.5",
   "description": "Automatically CI skip commits that do not modify source code, i.e., comments, formatting, etc.",
   "repository": "suhaibtamimi/ci-skipper",
-  "main": "lib",
+  "main": "lib/analyser.js",
   "bin": "bin/ci-skipper",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
