@@ -109,7 +109,9 @@
         ".mds",
         ".vbg",
         ".sln",
-        ".yml"
+        ".yml",
+        ".gitignore",
+        ".gitkeep"
     ],
     "build":[
         ".cmake",
@@ -254,7 +256,12 @@
         ".bugs",
         ".docx",
         ".md",
-        ".csv"
+        ".markdown",
+        ".asciidoc",
+        ".adoc",
+        ".asc",
+        ".csv",
+        ".rdoc"
     ],
     "img":[
         ".png",
@@ -263,6 +270,7 @@
         ".eps",
         ".pgm",
         ".jpg",
+        ".svg",
         ".chm",
         ".xbm",
         ".img",
