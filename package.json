@@ -1,6 +1,6 @@
 {
   "name": "ci-skipper",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Automatically CI skip commits that do not modify source code, i.e., comments, formatting, etc.",
   "repository": "suhaibtamimi/ci-skipper",
   "main": "lib/analyser.js",
